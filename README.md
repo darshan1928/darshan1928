@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋 I'm DARSHAN RAJ
+##Aspiring MERN Stack Developer
 # 💫 About Me:
 🔭 I’m currently working as an intern at Entri<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Web Development<br>📧 How to reach me darshankollam8@gmail.com
 
